@@ -25,3 +25,5 @@ Create the Project: Click Create to generate the new project based on the Reqnro
 Avoid Conflicting Plugins: If you have the "SpecFlow for Rider" plugin installed, it's advisable to disable or uninstall it to prevent conflicts, as both plugins process feature files. 
 DOCS.REQNROLL.NET
 Stay Updated: The Reqnroll plugin is actively maintained. Regularly check for updates to access new features and improvements.
+
+4) Install Aerospike.Client 
